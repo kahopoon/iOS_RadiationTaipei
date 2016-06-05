@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (3.4.0)
+  - MarqueeLabel (2.7.5):
+    - MarqueeLabel/ObjC (= 2.7.5)
+  - MarqueeLabel/ObjC (2.7.5)
+  - PKHUD (3.1.0)
+  - ScrollableGraphView (1.0.1)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - MarqueeLabel
+  - PKHUD
+  - ScrollableGraphView
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  MarqueeLabel: bd476f1a91e4414a6aec4ea4096a9979e8c8c2ad
+  PKHUD: 4167eccdb1b3a892fd80ce2b51cb6ba412a889ab
+  ScrollableGraphView: e73f490de9be4408aa95fea32a1e1ca175489fb4
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 7cf2b052b968a03feb8a69bf4a71b42361837fde
+
+COCOAPODS: 1.0.0.beta.8
